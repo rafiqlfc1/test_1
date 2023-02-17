@@ -1,0 +1,12 @@
+Register TCs:
+	1. Valid username and password
+	2. Invalid username (not email format)
+	3. Very large string of Username and password
+	4. Username already exists
+
+Login TCs:
+	1. Valid username and password
+	2. Valid username but wrong password
+	3. Invalid username (not email format)
+	4. Very large string of Username and password
+
